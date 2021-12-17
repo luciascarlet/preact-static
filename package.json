@@ -1,0 +1,21 @@
+{
+  "name": "preact-static",
+  "version": "1.0.0",
+  "private": "false",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "preact": "^10.6.4",
+    "style-loader": "^3.3.1"
+  },
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "postcss": "^8.4.5",
+    "postcss-loader": "^6.2.1",
+    "ts-loader": "^9.2.6",
+    "typescript": "^4.5.4"
+  }
+}
